@@ -1,1 +1,1 @@
-# SharePointCalculator
+# SharePointMigrationCalculator

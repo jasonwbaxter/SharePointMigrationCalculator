@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T13:50:20.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HvzbKeZJ5BBqFm4lR54q" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T13:59:50.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WAmn7AqfG6PQ13Rfm8nA" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2914" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="WFgXaqNdC1Ujew3TNshF-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-0" target="WFgXaqNdC1Ujew3TNshF-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WFgXaqNdC1Ujew3TNshF-0" value="Classic Site Template" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-0" value="Classic Site Template Migration" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-820" y="687.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-4" target="WFgXaqNdC1Ujew3TNshF-0">
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-32" value="Collaboration" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-34" target="WFgXaqNdC1Ujew3TNshF-36">
           <mxGeometry relative="1" as="geometry" />
@@ -149,11 +149,11 @@
         <mxCell id="WFgXaqNdC1Ujew3TNshF-42" value="Existing site" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WFgXaqNdC1Ujew3TNshF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-47" target="WFgXaqNdC1Ujew3TNshF-13">
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-47" target="WFgXaqNdC1Ujew3TNshF-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-47" value="Team site Is the current site this template?" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-460" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-52" target="WFgXaqNdC1Ujew3TNshF-55">
           <mxGeometry relative="1" as="geometry" />
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-74" value="Data only Migration" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-77" target="WFgXaqNdC1Ujew3TNshF-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-77" value="Modern Site" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="990" width="120" height="60" as="geometry" />
@@ -210,6 +213,15 @@
         </mxCell>
         <mxCell id="WFgXaqNdC1Ujew3TNshF-85" value="Simple / Complex" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-620" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-98" value="Post Migration Tasks" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WFgXaqNdC1Ujew3TNshF-100" target="WFgXaqNdC1Ujew3TNshF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WFgXaqNdC1Ujew3TNshF-100" value="Connect / Migrate to MS-TEAMS" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="285" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

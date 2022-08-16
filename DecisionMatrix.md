@@ -1,7 +1,19 @@
 # Migration Decision Matrix
 
-## What functionality do you require:
+## Who will be the owner / Business decision maker?
 
+|SiteUrl|Decision|Owner|Justification|Renewal Date|Comments
+|---|---|---|---|---|---|
+||To Migrate|Adele Vance|Some business reason....|2022-06-23|
+||Re-affirm Governance|____|____|2022-06-25|
+||Don't Migrate| no ownership| no justification|2022-08-31|
+
+---
+
+
+## What functionality do you require?
+
+Please select one of the below
 |What functionality do you require?|--|
 |--|--|
 |New site Desktop experience|N
@@ -10,25 +22,15 @@
 |Existing Site as is|Y
 
 ---
-## Who will be the owner / Business decision Maker:
 
-|Decision|Owner|Justification|Renewal Date|
-|---|---|---|---|
-|To Migrate|Adele Vance|Some business reason....|2022-06-23|
-|Re-affirm Governance|____|____|2022-06-25|
-|Don't Migrate| no ownership| no justification|2022-08-31|
-
----
-
-
-## Modernization Approaches:
+## Modernization Approaches
 
 |Classic to modern|Method |Alternate Method|
 |--|--|--|
 |Pages|Migrate to classic and Run PowerShell| Rebuild|
 Documents and information| Migrate with Migration Tool|Apply Permissions|
 Workflows |Rebuild|Rebuild
-Permissions|Permissions Matrix|Cross check with Business owner & Apply|
+Permissions|Permissions Matrix|Cross check with Business owner & Apply , PowerShell Set-PnPListItemPermission ,Management Tool |
 InfoPath|Migrate to classic and re-setup connections|Rebuild in PowerApps.
 
 ### Pages Appendix
@@ -42,7 +44,7 @@ SPMT|Pages|Modern pages|Wiki / Web part|:)|
 ShareGate|Pages|Modern pages|Wiki / Web part|:)|
 |
 
->Note: Pages cannot migrate without a content type / page layout associated with each page.
+>Note Pages cannot migrate / converted to modern without a content type / page layout associated with each page.
 ---
 
 

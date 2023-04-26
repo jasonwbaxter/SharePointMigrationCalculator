@@ -30,18 +30,18 @@ Please select one of the below
 |Pages|Migrate to classic and Run PowerShell| Rebuild|
 Documents and information| Migrate with Migration Tool|Apply Permissions|
 Workflows |Rebuild|Rebuild
-Permissions|Permissions Matrix|Cross check with Business owner & Apply , PowerShell Set-PnPListItemPermission ,Management Tool |
+Permissions|Permissions Matrix(sharegate)|Cross check with Business owner & Apply , PowerShell Set-PnPListItemPermission ,Management Tool |
 InfoPath|Migrate to classic and re-setup connections|Rebuild in PowerApps.
 
 ### Pages Appendix
 |Tooling|Source|Destination|Feature|Status|
 |---|---|---|---|---|
-SPMT|Site Pages|Classic pages|Publishing Features|x|
-ShareGate|Site Pages|Classic pages|Publishing Features|:)|
-SPMT|Site Pages|Modern pages|Publishing Features|x|
-ShareGate|Site Pages|Modern pages|Publishing Features|x|
-SPMT|Pages|Modern pages|Wiki / Web part|:)|
-ShareGate|Pages|Modern pages|Wiki / Web part|:)|
+SPMT|Pages library|Classic pages|Publishing Features|x|
+ShareGate|Pages|Classic pages|Publishing Features|:)|
+SPMT|Pages|Modern pages|Publishing Features|x|
+ShareGate|Pages|Modern pages|Publishing Features|x|
+SPMT|Site Pages|Modern pages|Wiki / Web part|:)|
+ShareGate|Site Pages|Modern pages|Wiki / Web part|:)|
 |
 
 >Note Pages cannot migrate / converted to modern without a content type / page layout associated with each page.
